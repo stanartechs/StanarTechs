@@ -994,8 +994,6 @@
  }
  @media (max-width: 768px) {
    .feature {
-     background-image: none !important;
-     background-color: #F2F2F2 !important;
    }
  }
  .feature h2 {
