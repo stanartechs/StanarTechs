@@ -1,8 +1,8 @@
 /**
- * WEBSITE: https://stanar.com
- * TWITTER: https://twitter.com/stanar
- * FACEBOOK: https://www.facebook.com/stanar
- * GITHUB: https://github.com/stanar/
+ * WEBSITE: https://Stanaar.com
+ * TWITTER: https://twitter.com/Stanaar
+ * FACEBOOK: https://www.facebook.com/Stanaar
+ * GITHUB: https://github.com/Stanaar/
  */
 
  @charset "UTF-8";
@@ -419,7 +419,7 @@
  }
  .commonSelect:before {
    content: "\f3d0";
-   font-family: "stanar-font";
+   font-family: "Stanaar-font";
    position: absolute;
    right: -4px;
    top: 4px;
@@ -491,7 +491,7 @@
    content: "\f209";
    position: absolute;
    right: 25px;
-   font-family: "stanar-font";
+   font-family: "Stanaar-font";
  }
  .commonAccordion .panel .panel-title a.collapsed:before, .commonAccordion-2 .panel .panel-title a.collapsed:before {
    content: "\f217";
