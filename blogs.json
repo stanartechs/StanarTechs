@@ -1,22 +1,22 @@
 [
-  {
-    "id": 10,
-    "title": "Publishers fear AI summaries are hitting online traffic",
-    "content1": "...",
-    "content2": "...",
-    "content3": "...",
-    "content4": "...",
-    "image": "images/news1.png",
+   {
+    "id": 1,
+    "title": "Introducing Sundy, an easy to use audio player app",
+    "content1": "I have used a variety of audio player apps over the years, but I have never found one that meets all my needs. Some apps have great features but are difficult to use, while others are user-friendly but lack important functionality. ",
+    "content2": "That's why I decided to create my own audio player app, Sundy.\n\nSundy is designed to be simple and intuitive, with a clean and modern interface that makes it easy to find and play your favorite music. You can create playlists, set sleep timers, and even share your favorite songs with friends via social media or messaging apps. The app also supports offline playback, so you can listen to your music even when you don't have an internet connection.\n\nOverall, I believe that Sundy is the best audio player app available today. It combines powerful features with ease of use, making it the perfect choice for anyone who loves music.",
+    "content3": "The app supports a wide range of audio formats, including MP3, WAV, FLAC, and more, so you can listen to your music no matter where it came from.\n\nOne of the key features of Sundy is its powerful search functionality. You can quickly find songs by title, artist, album, or genre, and the app will even suggest related tracks based on your listening history. Sundy also includes a built-in equalizer that allows you to customize the sound to your liking.\n\nIn addition to its core features, Sundy also includes a number of convenient extras.",
+    "content4": "If you're looking for a new audio player app, I encourage you to give Sundy a try!",
+    "image": "images/sundy.png",
     "files": []
   },
-  {
-    "id": 11,
-    "title": "World's first AI minister will eliminate corruption, says Albania's PM",
-    "content1": "...",
-    "content2": "...",
-    "content3": "...",
-    "content4": "...",
-    "image": "images/aiminister.png",
+   {
+    "id": 2,
+    "title": "Build your eye catching CV with CVer",
+    "content1": "Creating a standout CV is crucial in today's competitive job market. CVer is an innovative app designed to help you craft a professional and eye-catching CV with ease.",
+    "content2": " Whether you're a recent graduate or an experienced professional, CVer provides the tools you need to showcase your skills and experience effectively.\n\nCVer offers a variety of customizable templates that cater to different industries and job roles. You can easily input your information, and the app will format it into a polished CV that highlights your strengths. Additionally, CVer provides tips and examples to help you write compelling descriptions of your work experience and achievements.\n\nOne of the standout features of CVer is its ability to optimize your CV for applicant tracking systems (ATS). Many companies use ATS to screen applications, and CVer ensures that your CV is formatted in a way that increases the chances of passing through these systems.",
+    "content3": "\n\nCVer also allows you to export your CV in multiple formats, including PDF and Word, making it easy to share with potential employers. The app also offers a cover letter builder, so you can create a complete job application package in one place.",
+    "content4": "\n\nOverall, CVer is a powerful tool for anyone looking to create a professional CV quickly and easily. With its user-friendly interface and helpful features, CVer makes the process of building a standout CV simple and stress-free.",
+    "image": "images/54.jpg",
     "files": []
   },
    {
@@ -90,24 +90,24 @@
     "image": "images/news-electric.png",
     "files": []
   },
-   {
-    "id": 1,
-    "title": "Introducing Sundy, an easy to use audio player app",
-    "content1": "I have used a variety of audio player apps over the years, but I have never found one that meets all my needs. Some apps have great features but are difficult to use, while others are user-friendly but lack important functionality. ",
-    "content2": "That's why I decided to create my own audio player app, Sundy.\n\nSundy is designed to be simple and intuitive, with a clean and modern interface that makes it easy to find and play your favorite music. You can create playlists, set sleep timers, and even share your favorite songs with friends via social media or messaging apps. The app also supports offline playback, so you can listen to your music even when you don't have an internet connection.\n\nOverall, I believe that Sundy is the best audio player app available today. It combines powerful features with ease of use, making it the perfect choice for anyone who loves music.",
-    "content3": "The app supports a wide range of audio formats, including MP3, WAV, FLAC, and more, so you can listen to your music no matter where it came from.\n\nOne of the key features of Sundy is its powerful search functionality. You can quickly find songs by title, artist, album, or genre, and the app will even suggest related tracks based on your listening history. Sundy also includes a built-in equalizer that allows you to customize the sound to your liking.\n\nIn addition to its core features, Sundy also includes a number of convenient extras.",
-    "content4": "If you're looking for a new audio player app, I encourage you to give Sundy a try!",
-    "image": "images/sundy.png",
+  {
+    "id": 10,
+    "title": "Publishers fear AI summaries are hitting online traffic",
+    "content1": "...",
+    "content2": "...",
+    "content3": "...",
+    "content4": "...",
+    "image": "images/news1.png",
     "files": []
   },
-   {
-    "id": 2,
-    "title": "Build your eye catching CV with CVer",
-    "content1": "Creating a standout CV is crucial in today's competitive job market. CVer is an innovative app designed to help you craft a professional and eye-catching CV with ease.",
-    "content2": " Whether you're a recent graduate or an experienced professional, CVer provides the tools you need to showcase your skills and experience effectively.\n\nCVer offers a variety of customizable templates that cater to different industries and job roles. You can easily input your information, and the app will format it into a polished CV that highlights your strengths. Additionally, CVer provides tips and examples to help you write compelling descriptions of your work experience and achievements.\n\nOne of the standout features of CVer is its ability to optimize your CV for applicant tracking systems (ATS). Many companies use ATS to screen applications, and CVer ensures that your CV is formatted in a way that increases the chances of passing through these systems.",
-    "content3": "\n\nCVer also allows you to export your CV in multiple formats, including PDF and Word, making it easy to share with potential employers. The app also offers a cover letter builder, so you can create a complete job application package in one place.",
-    "content4": "\n\nOverall, CVer is a powerful tool for anyone looking to create a professional CV quickly and easily. With its user-friendly interface and helpful features, CVer makes the process of building a standout CV simple and stress-free.",
-    "image": "images/54.jpg",
+ {
+    "id": 11,
+    "title": "World's first AI minister will eliminate corruption, says Albania's PM",
+    "content1": "...",
+    "content2": "...",
+    "content3": "...",
+    "content4": "...",
+    "image": "images/aiminister.png",
     "files": []
   },
   {
