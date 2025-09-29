@@ -12,7 +12,7 @@ fetch('blogs.json')
     const blog = blogs.find(b => b.id == blogId);
     if (blog) {
       document.getElementById('blog-title').textContent = blog.title;
-      document.getElementById('blog-content').textContent = blog.content;
+      //document.getElementById('blog-content').textContent = blog.content;
       const img = document.querySelector('.post-thumb img');
       if (img) {
         img.src = blog.image;

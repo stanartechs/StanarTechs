@@ -7,12 +7,7 @@
     "content3": "...",
     "content4": "...",
     "image": "images/news1.png",
-    "files": [
-      {
-        "name": "Full Report PDF",
-        "url": "files/report-ai-traffic.pdf"
-      }
-    ]
+    "files": []
   },
   {
     "id": 11,
@@ -103,12 +98,7 @@
     "content3": "The app supports a wide range of audio formats, including MP3, WAV, FLAC, and more, so you can listen to your music no matter where it came from.\n\nOne of the key features of Sundy is its powerful search functionality. You can quickly find songs by title, artist, album, or genre, and the app will even suggest related tracks based on your listening history. Sundy also includes a built-in equalizer that allows you to customize the sound to your liking.\n\nIn addition to its core features, Sundy also includes a number of convenient extras.",
     "content4": "If you're looking for a new audio player app, I encourage you to give Sundy a try!",
     "image": "images/sundy.png",
-    "files": [
-      {
-        "name": "Android App Users",
-        "url": ""
-      }
-    ]
+    "files": []
   },
    {
     "id": 2,
@@ -118,12 +108,7 @@
     "content3": "\n\nCVer also allows you to export your CV in multiple formats, including PDF and Word, making it easy to share with potential employers. The app also offers a cover letter builder, so you can create a complete job application package in one place.",
     "content4": "\n\nOverall, CVer is a powerful tool for anyone looking to create a professional CV quickly and easily. With its user-friendly interface and helpful features, CVer makes the process of building a standout CV simple and stress-free.",
     "image": "images/54.jpg",
-    "files": [
-      {
-        "name": "For Android Users",
-        "url": "files/report-ai-traffic.pdf"
-      }
-    ]
+    "files": []
   },
   {
     "id": 12,

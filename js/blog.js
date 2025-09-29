@@ -1,12 +1,16 @@
 class Blog {
-  constructor(id, title, content, image, date, author, tags) {
+  constructor(id, title, content1,content2,content3,content4,image, date, author, tags,files) {
     this.id = id;
     this.title = title;
-    this.content = content;
+    this.content1 = content1 || "";
+    this.content2 = content2 || "";
+    this.content3 = content3 || "";
+    this.content4 = content4 || "";
     this.image = image;
     this.date = date || "20, MAR 2025";
     this.author = author || "ADMIN";
     this.tags = tags || ["LIFESTYLE"];
+    this.files = files || [];
   }
 }
 
@@ -42,7 +46,7 @@ function renderPosts(page = 1) {
         </ul>
       </div>
       <div class="post-content">
-        <p>${post.content.substring(0, 400)}...</p>
+        <p>${post.content1.substring(0, 400)}...</p>
         <a href="blog-single.html?id=${post.id}" class="btn btn-main">Continue Reading</a>
       </div>
     `;
@@ -89,8 +93,15 @@ function renderPagination() {
 fetch('blogs.json')
   .then(res => res.json())
   .then(posts => {
+    // Sort by id descending (newest first)
+    posts.sort((a, b) => b.id - a.id);
+
     allPosts = posts.map(postData =>
-      new Blog(postData.id, postData.title, postData.content, postData.image, postData.date, postData.author, postData.tags)
+    new Blog(postData.id, postData.title, postData.content1,
+    postData.content2,
+    postData.content3,
+    postData.content4, postData.image, postData.date, postData.author, postData.tags,
+    postData.files)
     );
     renderPosts(currentPage);
   });
@@ -150,7 +161,7 @@ fetch('blogs.json')
           </a>
           <div class="media-body">
             <h4 class="media-heading"><a href="blog-single.html?id=${blog.id}">${blog.title}</a></h4>
-            <p>${blog.content.substring(0, 60)}...</p>
+            <p>${blog.content1.substring(0, 60)}...</p>
           </div>
         `;
         sidebar.appendChild(mediaDiv);
