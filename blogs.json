@@ -2,20 +2,27 @@
   {
     "id": 10,
     "title": "Publishers fear AI summaries are hitting online traffic",
-    "content1": "When actress Sorcha Cusack left the BBC drama Father Brown in January it made headlines, including for the newspapers owned by Reach, among them The Mirror, and the Daily Express.",
-    "content2": "But the story did not generate the traction the Reach newspapers would have expected a year ago, or even at the start of the year. Reach put this down to AI Overviews (AIO) – the AI summary at the top of the Google results page.",
-    "content3": "Instead of clicking through to the story on a Reach newspaper site, readers were happy with the AI overview. The feature is a concern for newspapers and other media publishers, who have already seen much of their advertising revenue siphoned off by social media.",
-    "content4": "In a tough market readers coming via Google search is a valuable source of traffic. \"A major worry, backed by some individual datapoints, has been that AI overviews would lead to fewer people clicking through to the content behind them, with negative knock-on effects for publishers,\" says Dr Felix Simon, research fellow in AI and news at the Reuters Institute for the Study of Journalism, University of Oxford.",
-    "image": "images/news1.png"
+    "content1": "...",
+    "content2": "...",
+    "content3": "...",
+    "content4": "...",
+    "image": "images/news1.png",
+    "files": [
+      {
+        "name": "Full Report PDF",
+        "url": "files/report-ai-traffic.pdf"
+      }
+    ]
   },
   {
     "id": 11,
     "title": "World's first AI minister will eliminate corruption, says Albania's PM",
-    "content1": "For government officials, being called \"heartless\" is an occupational hazard. But Albania has chosen to turn that insult into a positive quality, by appointing an AI minister.\n\nNot a minister for artificial intelligence. Rather, a cabinet member who is, literally, the work of AI.\n\nThe new addition is, like a pop star, known simply by the single name: Diella.\n\nPrime Minister Edi Rama introduced her as a member of his new cabinet on Thursday, four months after securing his fourth term in office in May elections.\n\nHowever, the move was symbolic rather than official, as Albania's constitution insists that government ministers must be mentally competent citizens aged at least 18. \n Still, the advantages of appointing a bot over a human are obvious. \nDiella, whose name means sun in Albanian, is unlikely to be the source of any unflattering leaks about the government. She will only be power-hungry in the sense of the electricity she consumes. And a damaging expenses scandal would appear to be out of the question. \nIn fact, corruption was uppermost in Rama's mind when he made Diella part of his team as minister for public procurement. Her role will be to ensure that Albania will become \"a country where public tenders are 100% free of corruption\".\"We're working with a brilliant team, which is not only Albanian but also international, to come out with the first full AI model in public procurement,\" the prime minister told the BBC. \"Not only will we wipe out every potential influence on public biddings – we will also make the process much faster, much more efficient and totally accountable.\" Diella had already been working in Albania even before the government \"appointment\". Her first incarnation was as an AI-powered virtual assistant, guiding applicants through the process to obtain official documents.",
-    "content2": "",
-    "content3": "",
-    "content4": "",
-    "image": "images/aiminister.png"
+    "content1": "...",
+    "content2": "...",
+    "content3": "...",
+    "content4": "...",
+    "image": "images/aiminister.png",
+    "files": []
   },
    {
     "id": 3,
@@ -24,7 +31,8 @@
     "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news3.png"
+    "image": "images/news3.png",
+    "files": []
   },
    {
     "id": 4,
@@ -33,7 +41,8 @@
     "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news4.png"
+    "image": "images/news4.png",
+    "files": []
   },
    {
     "id": 5,
@@ -42,7 +51,8 @@
      "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news-iphone16.png"
+    "image": "images/news-iphone16.png",
+    "files": []
   },
   {
     "id": 6,
@@ -51,7 +61,8 @@
     "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news-mars.png"
+    "image": "images/news-mars.png",
+    "files": []
   },
   {
     "id": 7,
@@ -60,7 +71,9 @@
      "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news-markets.png"
+    "image": "images/news-markets.png",
+    "files": []
+    
   },
   {
     "id": 8,
@@ -69,7 +82,8 @@
      "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news-cancer.png"
+    "image": "images/news-cancer.png",
+    "files": []
   },
   {
     "id": 9,
@@ -78,7 +92,8 @@
      "content2": "",
     "content3": "",
     "content4": "",
-    "image": "images/news-electric.png"
+    "image": "images/news-electric.png",
+    "files": []
   },
    {
     "id": 1,
@@ -87,7 +102,13 @@
     "content2": "That's why I decided to create my own audio player app, Sundy.\n\nSundy is designed to be simple and intuitive, with a clean and modern interface that makes it easy to find and play your favorite music. You can create playlists, set sleep timers, and even share your favorite songs with friends via social media or messaging apps. The app also supports offline playback, so you can listen to your music even when you don't have an internet connection.\n\nOverall, I believe that Sundy is the best audio player app available today. It combines powerful features with ease of use, making it the perfect choice for anyone who loves music.",
     "content3": "The app supports a wide range of audio formats, including MP3, WAV, FLAC, and more, so you can listen to your music no matter where it came from.\n\nOne of the key features of Sundy is its powerful search functionality. You can quickly find songs by title, artist, album, or genre, and the app will even suggest related tracks based on your listening history. Sundy also includes a built-in equalizer that allows you to customize the sound to your liking.\n\nIn addition to its core features, Sundy also includes a number of convenient extras.",
     "content4": "If you're looking for a new audio player app, I encourage you to give Sundy a try!",
-    "image": "images/sundy.png"
+    "image": "images/sundy.png",
+    "files": [
+      {
+        "name": "Android App Users",
+        "url": ""
+      }
+    ]
   },
    {
     "id": 2,
@@ -96,15 +117,22 @@
     "content2": " Whether you're a recent graduate or an experienced professional, CVer provides the tools you need to showcase your skills and experience effectively.\n\nCVer offers a variety of customizable templates that cater to different industries and job roles. You can easily input your information, and the app will format it into a polished CV that highlights your strengths. Additionally, CVer provides tips and examples to help you write compelling descriptions of your work experience and achievements.\n\nOne of the standout features of CVer is its ability to optimize your CV for applicant tracking systems (ATS). Many companies use ATS to screen applications, and CVer ensures that your CV is formatted in a way that increases the chances of passing through these systems.",
     "content3": "\n\nCVer also allows you to export your CV in multiple formats, including PDF and Word, making it easy to share with potential employers. The app also offers a cover letter builder, so you can create a complete job application package in one place.",
     "content4": "\n\nOverall, CVer is a powerful tool for anyone looking to create a professional CV quickly and easily. With its user-friendly interface and helpful features, CVer makes the process of building a standout CV simple and stress-free.",
-    "image": "images/54.jpg"
+    "image": "images/54.jpg",
+    "files": [
+      {
+        "name": "For Android Users",
+        "url": "files/report-ai-traffic.pdf"
+      }
+    ]
   },
   {
     "id": 12,
     "title": "Publishers fear AI summaries are hitting online traffic",
-    "content1": "When actress Sorcha Cusack left the BBC drama Father Brown in January it made headlines, including for the newspapers owned by Reach, among them The Mirror, and the Daily Express.",
-    "content2": "But the story did not generate the traction the Reach newspapers would have expected a year ago, or even at the start of the year. Reach put this down to AI Overviews (AIO) – the AI summary at the top of the Google results page.",
-    "content3": "Instead of clicking through to the story on a Reach newspaper site, readers were happy with the AI overview. The feature is a concern for newspapers and other media publishers, who have already seen much of their advertising revenue siphoned off by social media.",
-    "content4": "In a tough market readers coming via Google search is a valuable source of traffic. \"A major worry, backed by some individual datapoints, has been that AI overviews would lead to fewer people clicking through to the content behind them, with negative knock-on effects for publishers,\" says Dr Felix Simon, research fellow in AI and news at the Reuters Institute for the Study of Journalism, University of Oxford.",
-    "image": "images/news1.png"
+    "content1": "...",
+    "content2": "...",
+    "content3": "...",
+    "content4": "...",
+    "image": "images/news1.png",
+    "files": []
   }
 ]

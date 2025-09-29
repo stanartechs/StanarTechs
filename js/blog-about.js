@@ -28,6 +28,21 @@ fetch('blogs.json')
           ps[1].textContent = blog.content3 || '';
           ps[2].textContent = blog.content4 || '';
       }
+
+       const filesDiv = document.getElementById('blog-files');
+            filesDiv.innerHTML = ''; // Clear previous
+            if (blog.files && blog.files.length > 0) {
+                blog.files.forEach(file => {
+                    if (file.url) {
+                        const link = document.createElement('a');
+                        link.href = file.url;
+                        link.textContent = `Download: ${file.name}`;
+                        link.className = 'btn btn-success my-2';
+                        link.setAttribute('download', '');
+                        filesDiv.appendChild(link);
+                    }
+                });
+            }
     } else {
       document.getElementById('blog-title').textContent = 'Blog not found';
       document.getElementById('blog-content').textContent = '';
