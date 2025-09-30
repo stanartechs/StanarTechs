@@ -7,7 +7,12 @@
     "content3": "The app supports a wide range of audio formats, including MP3, WAV, FLAC, and more, so you can listen to your music no matter where it came from.\n\nOne of the key features of Sundy is its powerful search functionality. You can quickly find songs by title, artist, album, or genre, and the app will even suggest related tracks based on your listening history. Sundy also includes a built-in equalizer that allows you to customize the sound to your liking.\n\nIn addition to its core features, Sundy also includes a number of convenient extras.",
     "content4": "If you're looking for a new audio player app, I encourage you to give Sundy a try!",
     "image": "images/sundy.png",
-    "files": []
+    "files": [
+      {
+        "name": "Android App",
+        "url": "files/sundy_old.apk"
+      }
+    ]
   },
    {
     "id": 2,
@@ -29,7 +34,7 @@
     "image": "images/news3.png",
     "files": []
   },
-   {
+  {
     "id": 4,
     "title": "Why hackers are targeting the world's shipping",
     "content": "Lawyer Henry Clack sadly knows a lot about Nigerian criminal gangs. \nMr Clack, a solicitor at London-based commercial law firm HFW, has to deal with them when he is representing global shipping firms that have found themselves victims of cyber attacks.\n\"Of the cases which HFW have been involved in, the most common counterparties that we've encountered are Nigerian organised criminal organisations,\" he says. \"They have been responsible for perpetrating several high value 'man-in-the-middle' frauds in recent years.\n\"This type of fraud involves a hacker being able to intercept the communication between two parties, such as emails. The criminal then impersonates both in order to try to steal sensitive information, such as log-in details or financial data, or even to take control of a company's computer system.\nThe cyber criminals then demand money to give back what they have stolen, or to give up their command of a firm's computers. \nHFW's data shows that such hacking is a growing problem for the shiping sector, both attacks on ships and ports. It says that between 2022 and 2023 the cost of dealing with an attack doubled to an average of $550,000 (£410,000). \nMeanwhile, in cases where cyber security experts cannot easily remove the hackers, HFW says the average cost of a ransom payment is now $3.2m. Around 80% of world trade is carried by sea, and disruption can greatly increase shipping firms' costs, and leave them short of capacity. \nThis, says John Stawpert, manager for environment and trade in the marine department of the International Chamber of Shipping (ICS), makes the maritime industry a prime target for cyber attacks, from both criminal gangs and hostile countries. \n\"Cyber security is a major concern for the shipping industry, given how interconnected the world is. Shipping has been listed as one of the top 10 targets for cyber criminals globally,\" he says.\n\"The impact can be quite significant if cyber criminals manage to disrupt your operations or, for example, carry out a ransomware attack.\"And the rate of attacks is rocketing. A research group at the Netherlands' NHL Stenden University of Applied Sciences compiled data on shipping cyber attacks over the last few years, and found that the number shot up from just 10 in 2021 to at least 64 last year. \nMany incidents, says Jeroen Pijpkerof the university's Maritime IT Security research group, are linked to the governments of four countries - Russia, China, North Korea and Iran.\n\"What we saw with one example was that equipment was being shipped to Ukraine, and then on a Telegram channel we see people giving information about what kind of targets to attack to get some kind of disruption in the logistical chain [of that delivery].\"Other attacks are purely for financial extortion, be it gangs from Nigeria or elsewhere.",
@@ -43,7 +48,7 @@
     "id": 5,
     "title": "Apple Unveils iPhone 16 with AI Features",
     "content1": "Apple has announced the iPhone 16, featuring advanced AI-powered photography, improved battery life, and a new design. The device is set to launch globally next month.",
-     "content2": "",
+    "content2": "",
     "content3": "",
     "content4": "",
     "image": "images/news-iphone16.png",
@@ -63,7 +68,7 @@
     "id": 7,
     "title": "Global Markets Rally After Interest Rate Cut",
     "content1": "Stock markets worldwide surged after central banks announced a coordinated interest rate cut to stimulate economic growth amid global uncertainties.",
-     "content2": "",
+    "content2": "",
     "content3": "",
     "content4": "",
     "image": "images/news-markets.png",
@@ -74,7 +79,7 @@
     "id": 8,
     "title": "Breakthrough in Cancer Research Announced",
     "content1": "Researchers have developed a new treatment that significantly improves survival rates for patients with advanced cancer, marking a major milestone in medical science.",
-     "content2": "",
+    "content2": "",
     "content3": "",
     "content4": "",
     "image": "images/news-cancer.png",
@@ -84,7 +89,7 @@
     "id": 9,
     "title": "Electric Cars Outsell Gas Vehicles in Europe",
     "content1": "For the first time, electric vehicles have outsold gasoline-powered cars in Europe, signaling a major shift towards sustainable transportation.",
-     "content2": "",
+    "content2": "",
     "content3": "",
     "content4": "",
     "image": "images/news-electric.png",
